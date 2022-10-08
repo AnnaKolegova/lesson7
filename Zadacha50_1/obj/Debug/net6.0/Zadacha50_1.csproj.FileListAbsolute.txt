@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\bin\Debug\net6.0\Zadacha50_1.exe
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\bin\Debug\net6.0\Zadacha50_1.deps.json
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\bin\Debug\net6.0\Zadacha50_1.runtimeconfig.json
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\bin\Debug\net6.0\Zadacha50_1.dll
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\bin\Debug\net6.0\Zadacha50_1.pdb
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.AssemblyInfo.cs
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.dll
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\refint\Zadacha50_1.dll
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.pdb
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\Zadacha50_1.genruntimeconfig.cache
+C:\Users\admin\Documents\Учеба аналитик\Program\HW7\Zadacha50_1\obj\Debug\net6.0\ref\Zadacha50_1.dll
